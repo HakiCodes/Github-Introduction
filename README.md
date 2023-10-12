@@ -91,14 +91,14 @@
  <div id = pics>
         <figure>
 <center>
-            <img src="Github.io Introduction/jambalaya.JPG" alt="Jambalaya" height = 120; width = 200><h1>
+            <img src="jambalaya.JPG" alt="Jambalaya" height = 120; width = 200><h1>
 <center>
             <figcaption>Jambalaya</figcaption>
         </figure>
         <br><br>
         <figure>
 	<center>
-            <img src="Github.io Introductionjollof rice.JPG" alt="Jollof Rice/Benachin"height = 150; width = 200><h1>
+            <img src="jollof rice.JPG" alt="Jollof Rice/Benachin"height = 150; width = 200><h1>
             <figcaption>Jollof Rice/Benachin</figcaption>
         </figure>
     </div>
