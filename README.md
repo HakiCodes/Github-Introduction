@@ -91,7 +91,7 @@
  <div id = pics>
         <figure>
 <center>
-            <img src="jambalaya.jpg" alt="Jambalaya" height = 120; width = 200><h1>
+            <img src="[jambalaya.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thespruceeats.com%2Fcajun-jambalaya-recipe-7153360&psig=AOvVaw3RMDUECu4FEuFwnoXInKS5&ust=1697178000547000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC2tPDu74EDFQAAAAAdAAAAABAE)" alt="Jambalaya" height = 120; width = 200><h1>
 <center>
             <figcaption>Jambalaya</figcaption>
         </figure>
