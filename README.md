@@ -91,14 +91,14 @@
  <div id = pics>
         <figure>
 <center>
-            <img src="[jambalaya.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thespruceeats.com%2Fcajun-jambalaya-recipe-7153360&psig=AOvVaw3RMDUECu4FEuFwnoXInKS5&ust=1697178000547000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC2tPDu74EDFQAAAAAdAAAAABAE)" alt="Jambalaya" height = 120; width = 200><h1>
+            <img src="jambalaya.jpg" alt="Jambalaya" height = 120; width = 200><h1>
 <center>
             <figcaption>Jambalaya</figcaption>
         </figure>
         <br><br>
         <figure>
 	<center>
-            <img src="[jollof rice.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.deliciousmagazine.co.uk%2Fwp-content%2Fuploads%2F2022%2F08%2FJolloff_34-960-768x960.jpg&tbnid=DKhUSgPRKeJz0M&vet=12ahUKEwjC8rqb7--BAxXbFmIAHdfhC9AQMygtegUIARD-AQ..i&imgrefurl=https%3A%2F%2Fwww.deliciousmagazine.co.uk%2Frecipes%2Fsmoky-jollof-rice%2F&docid=_Wzbj5PKC2i_QM&w=768&h=960&q=jollof%20rice&client=opera-gx&ved=2ahUKEwjC8rqb7--BAxXbFmIAHdfhC9AQMygtegUIARD-AQ)https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.deliciousmagazine.co.uk%2Fwp-content%2Fuploads%2F2022%2F08%2FJolloff_34-960-768x960.jpg&tbnid=DKhUSgPRKeJz0M&vet=12ahUKEwjC8rqb7--BAxXbFmIAHdfhC9AQMygtegUIARD-AQ..i&imgrefurl=https%3A%2F%2Fwww.deliciousmagazine.co.uk%2Frecipes%2Fsmoky-jollof-rice%2F&docid=_Wzbj5PKC2i_QM&w=768&h=960&q=jollof%20rice&client=opera-gx&ved=2ahUKEwjC8rqb7--BAxXbFmIAHdfhC9AQMygtegUIARD-AQ" alt="Jollof Rice/Benachin"height = 150; width = 200><h1>
+            <img src="jollof rice.jpg" alt="Jollof Rice/Benachin"height = 150; width = 200><h1>
             <figcaption>Jollof Rice/Benachin</figcaption>
         </figure>
     </div>
